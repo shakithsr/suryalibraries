@@ -1,4 +1,4 @@
-def $(ram)
+def Sgit(ram)
 {
-  Sgit{'ram'}
+  git "${'ram'}"
 }
