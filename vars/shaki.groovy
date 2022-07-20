@@ -1,0 +1,4 @@
+def $(ram)
+{
+  Sgit{'ram'}
+}
