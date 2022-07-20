@@ -1,4 +1,4 @@
 def Sgit(ram)
 {
-  git "${'ram'}"
+  git "${ram}"
 }
