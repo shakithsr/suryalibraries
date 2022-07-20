@@ -5,5 +5,5 @@ def Sgit(ram)
 
 def Smaven()
 {
-  sh 'maven package'
+  sh 'mvn package'
 }
